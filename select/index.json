@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ネオンを消して",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-02-07T16:10:32.565460Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネオンを消して",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_ネオンを消して_chilldspot.txt"
+    }
+  ]
+}
